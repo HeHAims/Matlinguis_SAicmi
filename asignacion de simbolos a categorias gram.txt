@@ -1,0 +1,14 @@
+asignacion de simbolos a categorias gramaticales
+simbolos     categoria  gramatical  rol en la formula  funcion semantica 
+Y               pronoun(p)  resultado   resultado   representa el resultado 
+m               sustantivo (m)  pendiente   objeto conectaa     (como un pronoun que refiere a algo conocido)
+m               vern(v) pendiente   accionoh cambio
+x   adjective (x)   idependiente    relacion contextual     
+x   preposition(a)  variable idependiente   modificador 
+b   adverb(b)   intersection    circustancia 
+b   artide(r)   interseccion    especificador
++   conjuction(+)   operador    conector logico 
+!   Interjection(!) expresion libre     emfaacis emocionallk,;'
+,k'
+'
+   
